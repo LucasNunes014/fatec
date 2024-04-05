@@ -1,2 +1,7 @@
 testando
 1...2...3
+testando com o visual 
+ok
+1234567
+oi
+aprendendo
